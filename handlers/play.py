@@ -135,7 +135,7 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "sɪʟᴇɴᴛ-ᴍᴜsɪᴄ's ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀᴛ ᴡᴏᴡ🧚‍♀️🥀")
+                        message.chat.id, "ᴅᴇᴠ 𝙓 ᴍᴜsɪᴄ's ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀᴛ ᴡᴏᴡ🧚‍♀️🥀")
 
                 except UserAlreadyParticipant:
                     pass
@@ -160,7 +160,7 @@ async def play(_, message: Message):
     if audio:
         if round(audio.duration / 360) > DURATION_LIMIT:
             raise DurationLimitError(
-                f"**ɢɪᴠᴇɴ ǫᴜᴀʀʏ ɪᴢ ʟᴏɴɢᴇʀ ᴛʜᴀɴ {DURATION_LIMIT} ᴛᴀᴛ ᴀʀᴇɴ'ᴛ ᴀʟʟᴏᴡ ᴛᴏ ᴘʟᴀʏ ᴅᴜᴇ ᴛᴏ ʜᴀᴠᴇʏ ᴜsᴀɢᴇ😕🤷‍♀️**"
+                f"**ɢɪᴠᴇɴ ǫᴜᴇʀʏ ɪᴢ ʟᴏɴɢᴇʀ ᴛʜᴀɴ {DURATION_LIMIT} ᴛᴀᴛ ᴀʀᴇɴ'ᴛ ᴀʟʟᴏᴡ ᴛᴏ ᴘʟᴀʏ ᴅᴜᴇ ᴛᴏ ʜᴀᴠᴇʏ ᴜsᴀɢᴇ😕🤷‍♀️**"
             )
 
         file_name = get_file_name(audio)
@@ -174,11 +174,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ᴛᴇᴀᴍ ʀɪsɪɴɢ sᴛᴀʀs✨",
+                            url=f"https://t.me/stars_rising"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/we_rfriends"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -218,11 +218,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ᴛᴇᴀᴍ ʀɪsɪɴɢ sᴛᴀʀs✨",
+                            url=f"https://t.me/stars_rising"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/we_rfriends"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -239,11 +239,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ᴛᴇᴀᴍ ʀɪsɪɴɢ sᴛᴀʀs✨",
+                            url=f"https://t.me/stars_rising"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/we_rfriends"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -253,7 +253,7 @@ async def play(_, message: Message):
     
         if (dur / 360) > DURATION_LIMIT:
             await lel.edit(
-                f"**ɢɪᴠᴇɴ ǫᴜᴀʀʏ ɪᴢ ʟᴏɴɢᴇʀ ᴛʜᴀɴ {DURATION_LIMIT} ᴛᴀᴛ ᴀʀᴇɴ'ᴛ ᴀʟʟᴏᴡ ᴛᴏ ᴘʟᴀʏ ᴅᴜᴇ ᴛᴏ ʜᴀᴠᴇʏ ᴜsᴀɢᴇ😕🤷‍♀️**"
+                f"**ɢɪᴠᴇɴ ǫᴜᴇʀʏ ɪᴢ ʟᴏɴɢᴇʀ ᴛʜᴀɴ {DURATION_LIMIT} ᴛᴀᴛ ᴀʀᴇɴ'ᴛ ᴀʟʟᴏᴡ ᴛᴏ ᴘʟᴀʏ ᴅᴜᴇ ᴛᴏ ʜᴀᴠᴇʏ ᴜsᴀɢᴇ😕🤷‍♀️**"
             )
             return
         requested_by = message.from_user.first_name
@@ -298,11 +298,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ᴛᴇᴀᴍ ʀɪsɪɴɢ sᴛᴀʀs✨",
+                            url=f"https://t.me/stars_rising"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/we_rfriends"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
