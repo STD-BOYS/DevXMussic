@@ -1,10 +1,10 @@
-## `DevuMusic`
+## `STDMusic`
 >Lag Free music bot for telegram 💞
 <p align="center"><h6> <code>Telegram Music</code> </h6>
 
 > __Telegram Lag Free Music player which can play music in voice chat of telegram with minimum lag As depend upon their server nd quality of internet❤️🚶.__
 <p align="center">
-<img src='https://telegra.ph/file/ceda1580c90e06991e883.png' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
+<img src='https://te.legra.ph/file/b098eec5ecc61fdbed99e.jpg' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
 
 </pre>
 <details><summary> <h3><b>Deployment!</b></h3> </summary>
@@ -37,8 +37,8 @@
 
 
 <h6><b><i><u>Here Devu Robot Which can handle Your group safely Nd play lag free Music too Check Out this too</u></i></b></h6>
-<p><a href='https://t.me/DEVU_ROBOT'><img src="https://img.shields.io/badge/Devu_Robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
-<a href="https://t.me/ShiningOff"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
+<p><a href='https://t.me/STD_BOYS_ROBOT'><img src="https://img.shields.io/badge/Devu_Robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
+<a href="https://t.me/STD_DEEPANSHU"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
 
 
 <p><code>##This Project Under</code> <pre> <a href="https://t.me/SILENT_DEVS"><img src="https://img.shields.io/badge/Join-Team%20%20Silent-blue?style=for-the-badge&logo=telegram"></a></pre>
